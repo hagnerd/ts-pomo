@@ -1,0 +1,19 @@
+{
+  "name": "ts-pomo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.2",
+    "parcel-bundler": "^1.12.1",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  }
+}
